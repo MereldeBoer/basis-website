@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Merel de Boer
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  blauw/rood(kies uit zwart, rood óf blauw)
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
@@ -36,15 +36,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
+  https://www.efteling.com/nl
+
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  actracties pagina 
+  <img src="readme-images/actracties1.jpg" width="375px" alt="pagina waar je alle actracties ziet die in de efteling bevinden">
+  <img src="readme-images/actracties2.jpg" width="375px" alt="uitbereiding van de actractie pagina">
+  <img src="readme-images/actracties3.jpg" width="375px" alt="uitbereiding van de actractie pagina">
+
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ Joris en de draak informatie pagina 
+  <img src="readme-images/jorisendedraak1.jpg" width="375px" alt="begin van de pagina waar je een vidoe ziet van de achtbaan en informatie">
+  <img src="readme-images/jorisendedraak2.jpg" width="375px" alt="foto's en video's van de achtbaan">
+  <img src="readme-images/jorisendedraak3.jpg" width="375px" alt="toegankelijkheid van de actractie">
+  <img src="readme-images/jorisendedraak4.jpg" width="375px" alt="waar je het op de kaart kan vinden">
+  <img src="readme-images/jorisendedraak5.jpg" width="375px" alt="andere actracties">
  
 </details>
 
@@ -56,7 +66,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+   Lijst met je bevindingen die in de test naar voren kwamen:
+  - de naviagtie balk kan denk ik beter. door de tickets optie meer links te zetten zodat de bezoekers niet helemaal de website t ehoeven door te lopen.
+  - De kaart is voor blinde mensen niet zo relevant en iritant als screen reader
+  - de kopjes geven in het alegmeen goed aan wat er onder het kopje staat. 
+  - bv: boek nu en ontvang 25% korting
+  - de screenreader gefet meestal wel aan waar een link naar toe gaat.
+  - op sommige foto's hebben ze ook een link maar hebben geen duidelijk isntructies. (bijvoorbeeld link op een pagina over een actractie van een foto)
+  - links naar andere pagina's heel duidelijk
+  - soms leest screen reader horizontaal splitsen voor. Wat denk ik niet nodig is.
+  - kaart heel onhandig want als je door de pagina loopt gaat die alle opties in de kaart voor lezen terwijl je eigenlijk gewoon door wilt.
+  - ook de talen optie vind ik bij de screen reader niethelemaal duidelijk door dat het niet een kopje heeft denk ik. 
+  - op sommige pagina's hadden ze pijlen zodat je naar een bepaald gedeelte ging op de pagina maar dat was niet zo relevant omdat het maar naar 1 naar ondere ging.
+  - pijl naar boven gaan zal fijn zijn want dan hoef je niet al die dingen opnieuw te hoeven luisteren
+ 
 
 </details>
 
