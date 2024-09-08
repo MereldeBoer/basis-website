@@ -80,6 +80,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - op sommige pagina's hadden ze pijlen zodat je naar een bepaald gedeelte ging op de pagina maar dat was niet zo relevant omdat het maar naar 1 naar ondere ging.
   - pijl naar boven gaan zal fijn zijn want dan hoef je niet al die dingen opnieuw te hoeven luisteren
  
+ resulaten WCAG test:
+ - sommige elementen hebben geen teogankelijke namen
+ - slechte kleur contras bij bijvoorbeeld de button met een groene achtergrond en witte letters
+ - links geen herkenbare naam
+ homepagina geen title
+ - De viewpoint is niet perze disabled maar gaat maar tot een max.
+ Ze kunnen maar tot 1.0 inzoomen
+ <!-- <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no"> -->
+ - tabindex groter dan 0
+ - kop elementen niet weergegeven in aflopende volgorde
+ -afbeeldingen missen alternatieve teksten
+ 
+
+ 
+ 
 
 </details>
 
