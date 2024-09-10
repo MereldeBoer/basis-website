@@ -29,3 +29,21 @@
 
 /* jouw code */
 
+h1{
+	/*font-family:"Verner";*/
+	font-family:"ff-ernestine-pro",sans-serif;
+	color:#b71234;
+}
+h2{
+	/*font-family:"Verner";*/
+	font-family:"wreath",sans-serif;
+	
+}
+p{
+	font-family:"ff-ernestine-pro",sans-serif;
+}
+
+
+/*ErnestineWeb-Bold,verner,
+
+<link rel="stylesheet" href="https://use.typekit.net/isd2gfc.css">*/
